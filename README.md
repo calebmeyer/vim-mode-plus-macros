@@ -15,7 +15,7 @@ This package is still under construction.
 - [x] a macro can be recorded
 - [x] a macro can be replayed
 - [x] macros can include typing in insert mode
-- [ ] macros can be recorded to (and replayed from) 26 letter based command queues
-- [ ] indicate macro recording state to user
+- [x] indicate macro recording state to user
+- [ ] macros can be saved to (and recalled from) the 26 letters (e.g. `qa` and `@a`)
+- [ ] macros can be named and saved
 - [ ] specs
-- [ ] serialized state?
