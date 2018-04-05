@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "vim-mode-plus-macros:start-recording-macro"
   },
-  "repository": "https://github.com/atom/vim-mode-plus-macros",
+  "repository": "https://github.com/calebmeyer/vim-mode-plus-macros",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
