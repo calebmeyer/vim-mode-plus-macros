@@ -1,0 +1,21 @@
+{
+  "name": "vim-mode-plus-macros",
+  "main": "./lib/vim-mode-plus-macros",
+  "version": "0.0.0",
+  "description": "Implements macros for vim mode plus",
+  "keywords": [
+    "macro",
+    "macros",
+    "vim-mode-plus"
+  ],
+  "activationCommands": {
+    "atom-workspace": "vim-mode-plus-macros:start-recording-macro"
+  },
+  "repository": "https://github.com/atom/vim-mode-plus-macros",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

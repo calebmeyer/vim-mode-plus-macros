@@ -1,0 +1,2 @@
+'atom-text-editor.vim-mode-plus.normal-mode':
+  'ctrl-alt-o': 'vim-mode-plus-macros:start-recording-macro'
