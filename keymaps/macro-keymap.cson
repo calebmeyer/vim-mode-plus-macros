@@ -5,7 +5,7 @@
 'atom-text-editor.vim-mode-plus.normal-mode.recording-macro':
   'q': 'vim-mode-plus-macros:stop-recording-macro'
 
-'atom-text-editor.vim-mode-plus.insert-mode.recording-macro':
+'atom-text-editor.vim-mode-plus.insert-mode.recording-macro, atom-text-editor.vim-mode-plus-search':
   'space': 'vim-mode-plus-macros:record-insert-of-space'
   '!': 'vim-mode-plus-macros:record-insert-of-!'
   '"': 'vim-mode-plus-macros:record-insert-of-"'

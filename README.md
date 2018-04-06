@@ -1,5 +1,5 @@
 # Macros for vim mode plus
-This package is still under construction.
+This package is still under construction. It works for basic commands, and with multiple cursors, but not with searching using `/`.
 
 ## Install
 `apm install vim-mode-plus-macros` at the command line, or `ctrl-,`, click on install, then type vim-mode-plus-macros and click install.
