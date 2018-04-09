@@ -1,7 +1,7 @@
 {
   "name": "vim-mode-plus-macros",
   "main": "./lib/vim-mode-plus-macros",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Implements macros for vim mode plus",
   "keywords": [
     "macro",
