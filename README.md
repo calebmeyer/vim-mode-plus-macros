@@ -1,8 +1,12 @@
 # Macros for vim mode plus
-This package is still under construction.
+This package is still under construction, but the basic functionality works. You can create a single macro and apply it many times.
+
+Searching with `/` definitely doesn't work yet.
 
 ## Install
 `apm install vim-mode-plus-macros` at the command line, or `ctrl-,`, click on install, then type vim-mode-plus-macros and click install.
+
+Make sure you also have vim-mode-plus installed, this package requires it.
 
 ## Usage
 `q` in normal mode to start recording a macro
@@ -17,5 +21,5 @@ This package is still under construction.
 - [x] macros can include typing in insert mode
 - [x] indicate macro recording state to user
 - [ ] macros can be saved to (and recalled from) the 26 letters (e.g. `qa` and `@a`)
-- [ ] macros can be named and saved
+- [ ] macros can be named and saved (maybe use a fuzzy finder?)
 - [ ] specs
